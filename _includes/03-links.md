@@ -1,1 +1,1 @@
-https://github.com/sinemasya
+[GitHub] (https://github.com/sinemasya)
